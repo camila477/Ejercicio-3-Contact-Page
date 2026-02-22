@@ -23,7 +23,7 @@ Durante este programa se desarrollo una pagina de contacto junto con menus despl
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [LINK](http://yomidev.github.io/newsletter/)
+Deploy: https://camila477.github.io/Ejercicio-3-Contact-Page/
 ---
 
 ## 📝 Reflexión
